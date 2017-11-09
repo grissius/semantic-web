@@ -1,0 +1,14 @@
+= Semantic web and linked data
+Jaroslav Šmolík <smolijar@fit.cvut.cz>
+
+== Semestral project
+For the project I selected Czech language words.
+I will combine words from dictionary with word frequencies in natural language and word tagging, using Wiktionary XML dumps.
+
+=== Datasets
+
+As mentioned before I will use 3 datasets.
+
+. Hunspell Czech dictionary
+. Czech Wiktionary XML dump containing additional word information (part of speech, ethymology, ...)
+. Word frequencies gathered from OpenSubtitles

@@ -1,0 +1,99 @@
+@startuml
+' skinparam handwritten true
+skinparam monochrome true
+hide circle
+skinparam packageStyle rectangle
+
+package IMDb {
+  class "IMDb movies" as IMDbt {
+    - movie_title
+    - color
+    - num_critic_for_reviews
+    - movie_facebook_likes
+    - duration
+    - director_name
+    - director_facebook_likes
+    - actor_3_name
+    - actor_3_facebook_likes
+    - actor_2_name
+    - actor_2_facebook_likes
+    - actor_1_name
+    - actor_1_facebook_likes
+    - gross
+    - genres
+    - num_voted_users
+    - cast_total_facebook_likes
+    - facenumber_in_poster
+    - plot_keywords
+    - movie_imdb_link
+    - num_user_for_reviews
+    - language
+    - country
+    - content_rating
+    - budget
+    - title_year
+    - imdb_score an
+    - aspect_ratio
+  }
+}
+package TMDb {
+  class "TMDb Credits" as tmdbc {
+    - movie_id
+    - title
+    - cast
+    - crew
+  }
+
+  class "TMDb Movies" as tmdbm {
+    - budget
+    - genres
+    - homepage
+    - id
+    - keywords
+    - original_language
+    - original_title
+    - overview
+    - popularity
+    - production_companies
+    - production_countries
+    - release_date
+    - revenue
+    - runtime
+    - spoken_languages
+    - status
+    - tagline
+    - title
+    - vote_average
+    - vote_count
+  }
+
+  tmdbc -right- tmdbm: id ... movie_id
+}
+
+package MovieTweetings {
+  class Users {
+    - user_id
+    - twitter_id
+  }
+  class Items {
+    - movie_id
+    - movie_title, movie_year
+    - genre
+  }
+  class Ratings {
+    - user_id
+    - movie_id
+    - rating
+    - rating_timestamp
+  }
+  Ratings -left- Users: user_id
+  Ratings -right- Items: movie_id
+}
+
+
+
+tmdbm -left- IMDbt: \n  title ... movie_title  \n   (release_date ... title_year)  \n
+Items -up- tmdbm:  \n  title ... movie_title  \n   (release_date ... movie_year)  \n
+Items -up- IMDbt:  \n  movie_title  \n   (movie_year ... title_year)  \n
+
+@enduml
