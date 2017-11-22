@@ -30,4 +30,4 @@ WHERE {
   BIND (STRLANG(?pos, 'cs') as ?posTagged)
 }
 
-LIMIT 5
+# LIMIT 5
