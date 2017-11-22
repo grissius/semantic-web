@@ -1,6 +1,9 @@
 = Semantic web and linked data
 Jaroslav Šmolík <smolijar@fit.cvut.cz>
 
+== Labs
+See `Lab` folder.
+
 == Semestral project
 For the project I selected Czech language words.
 I will combine words from dictionary with word frequencies in natural language and word tagging, using Wiktionary XML dumps.
