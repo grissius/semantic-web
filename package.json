@@ -1,0 +1,31 @@
+{
+  "name": "semantic-web",
+  "version": "0.0.0",
+  "description": "= Semantic web and linked data Jaroslav Šmolík <smolijar@fit.cvut.cz>",
+  "main": "index.js",
+  "scripts": {
+    "install": "napa",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grissius/semantic-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/grissius/semantic-web/issues"
+  },
+  "homepage": "https://github.com/grissius/semantic-web#readme",
+  "napa": {
+    "frequency_words": "hermitdave/FrequencyWords",
+    "stopwords": "6/stopwords-json"
+  },
+  "dependencies": {
+    "dictionary-cs": "^2.0.0",
+    "json2csv": "^3.11.5",
+    "lodash": "^4.17.4",
+    "napa": "^3.0.0",
+    "word-stock-dump": "gist:9f035d612c0eb24a1bc04149aa1bf004"
+  }
+}
