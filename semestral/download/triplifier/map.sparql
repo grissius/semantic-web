@@ -1,0 +1,33 @@
+PREFIX ex: <http://ex.org/a#>
+PREFIX s: <http://schema.org>
+prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+prefix lemon: <http://lemon-model.net/lemon#>
+
+CONSTRUCT {
+  ?wordUri a lemon:Word;
+    ex:stopword ?stopwordTyped;
+    rdfs:label ?wordTagged;
+    ex:freq ?freqTyped;
+    ex:hyphanation ?hyphenationTagged;
+    ex:partOfSpeech ?posUri;
+    ex:ethymology ?ethymologyTagged;
+    ex:meaning ?meaningTagged;
+    .
+
+  ?posUri a <http://ex.org/cs/pos>;
+    rdfs:label ?posTagged;
+}
+WHERE {
+  BIND (URI(CONCAT('http://ex.org/cs/word/', ?word)) AS ?wordUri)
+  BIND (URI(CONCAT('http://ex.org/cs/pos/', ?pos)) AS ?posUri)
+  BIND (STRLANG(?word, 'cs') as ?wordTagged)
+  BIND (STRDT(?stopword, xsd:boolean) as ?stopwordTyped)
+  BIND (STRDT(?freq, xsd:integer) as ?freqTyped)
+  BIND (STRLANG(?ethymology, 'cs') as ?ethymologyTagged)
+  BIND (STRLANG(?hyphenation, 'cs') as ?hyphenationTagged)
+  BIND (STRLANG(?meaning, 'cs') as ?meaningTagged)
+  BIND (STRLANG(?pos, 'cs') as ?posTagged)
+}
+
+LIMIT 5
