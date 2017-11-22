@@ -5,12 +5,14 @@ These datasets will be used:
 . Hunspell Czech dictionary
 . Czech Wiktionary XML dump containing additional word information (part of speech, ethymology, ...)
 . Word frequencies gathered from OpenSubtitles
-. List of stop words for Czech
+. List of stop words for Czech language
 
 I combined datasets using script I created and combined it all into a single CSV.
 From this CSV I created the tripes using turtle.
 
-Script: https://github.com/grissius/semantic-web/blob/master/index.js
+
+* Script: https://github.com/grissius/semantic-web/blob/master/index.js
+* CSV: ./out.csv
 
 == Hunspell
 Dictionary contains valid words and serves as a reference to filter results.
