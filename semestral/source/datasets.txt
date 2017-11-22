@@ -1,14 +1,4 @@
-= Semantic web and linked data
-Jaroslav Šmolík <smolijar@fit.cvut.cz>
-
-== Labs
-See `Lab` folder.
-
-== Semestral project
-For the project I selected Czech language words.
-I will combine words from dictionary with word frequencies in natural language and word tagging, using Wiktionary XML dumps.
-
-=== Datasets
+= Datasets
 
 These datasets will be used:
 
@@ -22,7 +12,7 @@ From this CSV I created the tripes using turtle.
 
 Script: https://github.com/grissius/semantic-web/blob/master/index.js
 
-==== Hunspell
+== Hunspell
 Dictionary contains valid words and serves as a reference to filter results.
 Optionally it may be used to create word variations combied with aff set.
 Data stored in plaintext. Word followed by a slash and list of tags.
@@ -36,7 +26,7 @@ abandonovat/ATN
 ```
 https://github.com/wooorm/dictionaries/raw/master/dictionaries/cs/index.dic
 
-==== Wictionary XML dump
+== Wictionary XML dump
 XML dump of whole wiki in cs Wiktionary.
 
 https://dumps.wikimedia.org/cswiktionary/latest/cswiktionary-latest-pages-articles.xml.bz2
@@ -60,7 +50,7 @@ Example of scraped data:
   }
 ]
 ```
-==== Word frequencies
+== Word frequencies
 
 List of word frequencies for many languages based on OpenSubtitles subtitles data.
 
@@ -74,7 +64,7 @@ a 3809283
 na 2887640
 ```
 
-==== Stopwords
+== Stopwords
 List of stopwords for Czech language.
 Example:
 ```
