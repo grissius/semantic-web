@@ -1,0 +1,122 @@
+# http://linked.opendata.cz/sparql/
+
+# Select URIs and labels of all skos:conceptScheme from given URI
+SELECT DISTINCT *
+WHERE {
+  ?subject a skos:ConceptScheme; skos:prefLabel ?label
+}
+
+# Same as above but include those which are missing labels
+SELECT DISTINCT *
+WHERE {
+  ?subject a skos:ConceptScheme
+  OPTIONAL {
+    ?subject skos:prefLabel ?label
+  }
+}
+
+# Select all named graph URIs
+SELECT DISTINCT ?graph
+WHERE {
+  GRAPH ?graph {?s ?o ?p}
+}
+
+# Which named graphs contain some skos:Concepts
+SELECT DISTINCT ?graph
+WHERE {
+  GRAPH ?graph {?s a skos:Concept}
+}
+
+# Same but order
+SELECT DISTINCT ?graph
+WHERE {
+  GRAPH ?graph {?s a skos:Concept}
+}
+ORDER BY ASC(?graph) # DESC for reverse
+
+# Same first 10
+SELECT DISTINCT ?graph
+WHERE {
+  GRAPH ?graph {?s a skos:Concept}
+}
+ORDER BY ASC(?graph) # DESC for reverse
+LIMIT 10
+
+# Same second 10
+SELECT DISTINCT ?graph
+WHERE {
+  GRAPH ?graph {?s a skos:Concept}
+}
+ORDER BY ASC(?graph) # DESC for reverse
+LIMIT 10
+OFFSET 10
+
+#
+SELECT DISTINCT *
+WHERE {
+  ?subject a skos:ConceptScheme; skos:prefLabel ?label.
+  FILTER (?label = "Paragraf")
+}
+
+
+#
+SELECT DISTINCT *
+WHERE {
+  ?subject a skos:ConceptScheme; skos:prefLabel ?label.
+  FILTER (STRSTARTS(?label, "P"))
+}
+
+# Select first 100 CTIA inspections, which ended in financial snaction and its value
+SELECT DISTINCT ?action ?value
+WHERE {
+  ?action a s:CheckAction; s:result ?result.
+  ?result s:result ?priceSpec.
+  ?priceSpec gr:hasCurrencyValue ?value.
+  FILTER(?value > 0)
+}
+# Alternativly...
+SELECT ?check ?fine
+WHERE
+{
+  ?check a s:CheckAction ;
+  s:result/s:result/gr:hasCurrencyValue ?fine .
+}
+
+# Same, but count them
+SELECT (count(DISTINCT ?check) as ?count)
+WHERE
+{
+  ?check a s:CheckAction ;
+  s:result/s:result/gr:hasCurrencyValue ?fine .
+}
+
+# Same but find max and avg
+SELECT (AVG(?fine) as ?avg) (MAX(?fine) as ?max)
+WHERE
+{
+  ?check a s:CheckAction ;
+  s:result/s:result/gr:hasCurrencyValue ?fine .
+}
+
+# Same, limit 100, include expensive true if fee > 
+SELECT ?check ?fine ?costly
+WHERE
+{
+  ?check a s:CheckAction ;
+  s:result/s:result/gr:hasCurrencyValue ?fine .
+  BIND(IF(?fine>1000, true, false) as ?costly)
+}
+LIMIT 100
+
+# Select graphs and number of triples in them
+SELECT DISTINCT ?graph (count(DISTINCT ?s) as ?triples)
+WHERE {
+  GRAPH ?graph {?s ?o ?p}
+}
+
+SELECT ?g (COUNT(DISTINCT ?s))
+WHERE {
+  GRAPH ?g {?s ?p ?o}
+}
+GROUP BY ?g
+ORDER BY DESC(COUNT(?s))
