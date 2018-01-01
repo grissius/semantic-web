@@ -21,8 +21,9 @@ public class HelloServlet extends HttpServlet {
             while (results.hasNext()) {
                 QuerySolution soln = results.nextSolution();
                 RDFNode x = soln.get("s"); // Get a result variable by name.
-                response.getWriter().println(x.toString());
+                response.getWriter().println(String.format("<li>%s</li>", x.toString()));
             }
         }
+        response.setContentType("text/html");
     }
 }
