@@ -7,8 +7,7 @@ These datasets will be used:
 . Word frequencies gathered from OpenSubtitles
 . List of stop words for Czech language
 
-I combined datasets using script I created and combined it all into a single CSV.
-From this CSV I created the tripes using turtle.
+I preprocessed the datasets using a script I created into multiple CSVs and used turtle to create triples.
 
 
 * Script: https://github.com/grissius/semantic-web/blob/master/index.js
