@@ -1,0 +1,42 @@
+@prefix ex:  <http://example.com/#> .
+@prefix vset:  <http://example.com/voidset#> .
+@prefix lset:  <http://example.com/voidlinkset#> .
+@prefix dist:  <http://example.com/dist#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+
+# Agent
+ex:I a foaf:person ;
+  foaf:familyName "Šmolík" ;
+  foaf:givenName "Jaroslav" ;
+  foaf:workplaceHomepage <http://fit.cvut.cz/>.
+
+# Datasets
+vset:wiktionary a void:Dataset ;
+  foaf:homepage vset:wiktionary ;
+  dcterms:subject <http://dbpedia.org/page/Word> ;
+  dcterms:description "Meta data for words scraped from wiktionary dump."@en ;
+  dcterms:publisher ex:I ;
+  dcterms:issued "2018-01-01"^^xsd:date ;
+  dcterms:modified "2018-01-01"^^xsd:date ;
+  dcterms:title "Wiktionary"@en ;
+  dcterms:source dist:wiktionary.ttl .
+
+vset:hunspell a void:Dataset ;
+  foaf:homepage vset:hunspell ;
+  dcterms:subject <http://dbpedia.org/page/Word> ;
+  dcterms:description "Hunspell dictionary words"@en ;
+  dcterms:publisher ex:I ;
+  dcterms:issued "2018-01-01"^^xsd:date ;
+  dcterms:modified "2018-01-01"^^xsd:date ;
+  dcterms:title "Hunspell"@en ;
+  dcterms:source dist:hunspell.ttl .
+
+# Linksets
+lset:wiktionary a void:Linkset ;
+  void:subjectTarget vset:hunspell ;
+  void:objectTarget vset:wiktionary ;
+  void:linkPredicate owl:sameAs .
