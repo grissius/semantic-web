@@ -1,0 +1,28 @@
+prefix lemon: <http://lemon-model.net/lemon#>
+prefix ex: <http://example.com/#>
+prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+prefix owl: <http://www.w3.org/2002/07/owl#>
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+prefix dcterms: <http://purl.org/dc/terms/>
+
+
+CONSTRUCT {
+  ex:wordFrequency
+    a rdf:Property, owl:ObjectProperty ;
+    rdfs:comment "Number of occurences for given word in corpus of available subtitles for given language at OpenSubtitles.com"@en ;
+    rdfs:domain lemon:Word ;
+    rdfs:label "Word frequency"@en ;
+    rdfs:subPropertyOf dcterms:Frequency ;
+    rdfs:range xsd:integer .
+
+  ?wordUri
+    lemon:lexicalForm ?wordTagged;
+    ex:wordFrequency ?freq;
+    .
+}
+WHERE {
+  BIND (URI(CONCAT('http://example.com/frequency/', ?word)) AS ?wordUri)
+  BIND (STRLANG(?word, 'cs') as ?wordTagged)
+  BIND (STRDT(?stopword, xsd:boolean) as ?stopwordTyped)
+}
