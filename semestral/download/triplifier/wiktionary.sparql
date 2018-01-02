@@ -1,0 +1,64 @@
+prefix ex: <http://example.com/#>
+prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+prefix owl: <http://www.w3.org/2002/07/owl#>
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+prefix lemon: <http://lemon-model.net/lemon#>
+prefix uby: <http://purl.org/olia/ubyCat.owl#hyphenation>
+prefix lexinfo: <http://www.lexinfo.net/ontology/2.0/lexinfo#>
+
+CONSTRUCT {
+  ex:ethymology
+    a rdf:Property, owl:ObjectProperty ;
+    rdfs:comment "Natural language ethymology description of given lexical entry."@en ;
+    rdfs:domain lemon:LexicalSense ;
+    rdfs:label "Ethymology"@en ;
+    rdfs:subPropertyOf lemon:subsense ;
+    .
+
+  ?wordUri a lemon:Word;
+    lemon:lexicalForm ?wordTagged ;
+    lemon:sense ?senseUri ;
+    uby:hyphenation ?hyphenationTagged ;
+    .
+
+  ?senseUri a lemon:LexicalSense ;
+    lemon:subsense ?meaningTagged ;
+    ex:ethymology ?ethymologyTagged ;
+    .
+
+  ?posUri a lexinfo:partOfSpeech;
+    rdfs:label ?posType;
+    rdfs:label ?posTagged;
+    .
+}
+WHERE {
+  BIND (URI(CONCAT('http://example.com/wiktionary/word/', ?word)) AS ?wordUri)
+  BIND (URI(CONCAT('http://example.com/wiktionary/sense/', ?word)) AS ?senseUri)
+  BIND (STRLANG(?word, 'cs') as ?wordTagged)
+  BIND (URI(CONCAT('http://example.com/pos/', ?pos)) AS ?posUri)
+  BIND (STRLANG(?ethymology, 'cs') as ?ethymologyTagged)
+  BIND (STRLANG(?hyphenation, 'cs') as ?hyphenationTagged)
+  BIND (STRLANG(?meaning, 'cs') as ?meaningTagged)
+  BIND (STRLANG(?pos, 'cs') as ?posTagged)
+  BIND (URI(CONCAT("http://www.lexinfo.net/ontology/2.0/lexinfo#",
+    IF(?pos = "podstatné jméno", "NounPOS",
+      IF(?pos = "přídavné jméno", "AdjectivePOS",
+        IF(?pos = "zájmeno", "PronounPOS",
+          IF(?pos = "číslovka", "NumeralPOS",
+            IF(?pos = "sloveso", "VerbPOS",
+              IF(?pos = "příslovce", "AdverbPOS",
+                IF(?pos = "předložka", "FusedPrepositionPOS",
+                  IF(?pos = "spojka", "ConjunctionPOS",
+                    IF(?pos = "částice", "ParticlePOS", "Interjection")
+                  )
+                )
+              )
+            )
+          )
+        )
+      )
+    )))
+    as ?posType
+  )
+}
