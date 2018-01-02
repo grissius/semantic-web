@@ -1,2 +1,3 @@
 #!/bin/sh
-tarql map.sparql ../../source/out.csv > ../output/output.ttl
+tarql hunspell.sparql ../../source/out.hunspell.csv > ../output/out.hunspell.ttl
+tarql stopword.sparql ../../source/out.stopword.csv > ../output/out.stopword.ttl

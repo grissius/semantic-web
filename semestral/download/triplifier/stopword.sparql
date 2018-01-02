@@ -1,0 +1,26 @@
+prefix lemon: <http://lemon-model.net/lemon#>
+prefix ex: <http://example.com/#>
+prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+prefix owl: <http://www.w3.org/2002/07/owl#>
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+
+
+CONSTRUCT {
+  ex:stopword
+    a rdf:Property, owl:ObjectProperty ;
+    rdfs:comment "Indicates if given word is a stopword."@en ;
+    rdfs:domain lemon:Word ;
+    rdfs:label "Stopword"@en ;
+    rdfs:range xsd:boolean .
+
+  ?wordUri
+    lemon:lexicalForm ?wordTagged;
+    ex:stopword ?stopwordTyped;
+    .
+}
+WHERE {
+  BIND (URI(CONCAT('http://example.com/stopword/', ?word)) AS ?wordUri)
+  BIND (STRLANG(?word, 'cs') as ?wordTagged)
+  BIND (STRDT(?stopword, xsd:boolean) as ?stopwordTyped)
+}

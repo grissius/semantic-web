@@ -1,0 +1,14 @@
+prefix lemon: <http://lemon-model.net/lemon#>
+prefix dcterms: <http://dublincore.org/2012/06/14/dcterms#>
+
+CONSTRUCT {
+  ?wordUri a lemon:Word;
+    lemon:lexicalForm ?wordTagged;
+    dcterms:language ?typedLang
+    .
+}
+WHERE {
+  BIND (URI(CONCAT('http://example.com/hunspell/', ?word)) AS ?wordUri)
+  BIND (STRLANG(?word, 'cs') as ?wordTagged)
+  BIND (STRDT('cs', dcterms:ISO639-3) as ?typedLang)
+}
