@@ -1,0 +1,10 @@
+<Dataset id="hunspell" type="file">
+  <Param name="file"><![CDATA[out.hunspell.ttl]]></Param>
+  <Param name="format"><![CDATA[turtle]]></Param>
+  <Param name="graph"><![CDATA[]]></Param>
+  <Param name="maxReadSize"><![CDATA[10]]></Param>
+  <MetaData>
+    <Label></Label>
+    <Description></Description>
+  </MetaData>
+</Dataset>

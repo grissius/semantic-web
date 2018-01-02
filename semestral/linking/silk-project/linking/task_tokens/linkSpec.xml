@@ -1,0 +1,29 @@
+<Interlink id="task_tokens">
+  <MetaData>
+    <Label></Label>
+    <Description></Description>
+  </MetaData>
+  <SourceDataset dataSource="wiktionary" var="a" typeUri="http://lemon-model.net/lemon#LexicalSense">
+    <RestrictTo> </RestrictTo>
+  </SourceDataset>
+  <TargetDataset dataSource="hunspell" var="b" typeUri="http://lemon-model.net/lemon#Word">
+    <RestrictTo> </RestrictTo>
+  </TargetDataset>
+  <LinkageRule linkType="&lt;http://www.w3.org/2000/01/rdf-schema#seeAlso&gt;">
+    <Compare id="equality1" required="false" weight="1" metric="equality" threshold="0.0" indexing="true">
+      <TransformInput id="lowerCase1" function="lowerCase">
+        <TransformInput id="tokenize1" function="tokenize">
+          <Input id="sourcePath1" path="/&lt;http://lemon-model.net/lemon#subsense&gt;"/>
+          <Param name="regex"><![CDATA[\s]]></Param>
+        </TransformInput>
+      </TransformInput>
+      <TransformInput id="lowerCase2" function="lowerCase">
+        <Input id="targetPath1" path="/&lt;http://lemon-model.net/lemon#lexicalForm&gt;"/>
+      </TransformInput>
+    </Compare>
+    <Filter/>
+  </LinkageRule>
+  <Outputs>
+    <Output id="link-tokens"></Output>
+  </Outputs>
+</Interlink>

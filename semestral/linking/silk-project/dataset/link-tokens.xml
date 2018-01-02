@@ -1,0 +1,10 @@
+<Dataset id="link-tokens" type="file">
+  <Param name="file"><![CDATA[link.tokens.nt]]></Param>
+  <Param name="format"><![CDATA[ntriples]]></Param>
+  <Param name="graph"><![CDATA[]]></Param>
+  <Param name="maxReadSize"><![CDATA[10]]></Param>
+  <MetaData>
+    <Label></Label>
+    <Description></Description>
+  </MetaData>
+</Dataset>

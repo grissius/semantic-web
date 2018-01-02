@@ -1,0 +1,22 @@
+<Interlink id="task_remote_wiktionary">
+  <MetaData>
+    <Label></Label>
+    <Description></Description>
+  </MetaData>
+  <SourceDataset dataSource="hunspell" var="a" typeUri="http://lemon-model.net/lemon#Word">
+    <RestrictTo> </RestrictTo>
+  </SourceDataset>
+  <TargetDataset dataSource="wiktionary-remote" var="b" typeUri="">
+    <RestrictTo> </RestrictTo>
+  </TargetDataset>
+  <LinkageRule linkType="&lt;http://www.w3.org/2002/07/owl#sameAs&gt;">
+    <Compare id="equality1" required="false" weight="1" metric="equality" threshold="0.0" indexing="true">
+      <Input id="sourcePath1" path="/&lt;http://lemon-model.net/lemon#lexicalForm&gt;"/>
+      <Input id="targetPath2" path="/&lt;http://www.w3.org/2000/01/rdf-schema#label&gt;"/>
+    </Compare>
+    <Filter/>
+  </LinkageRule>
+  <Outputs>
+    <Output id="link-dbpedia"></Output>
+  </Outputs>
+</Interlink>

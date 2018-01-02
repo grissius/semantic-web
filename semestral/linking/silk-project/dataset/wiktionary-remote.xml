@@ -1,0 +1,19 @@
+<Dataset id="wiktionary-remote" type="sparqlEndpoint">
+  <Param name="pageSize"><![CDATA[1000]]></Param>
+  <Param name="clearGraphBeforeExecution"><![CDATA[true]]></Param>
+  <Param name="pauseTime"><![CDATA[0]]></Param>
+  <Param name="retryCount"><![CDATA[3]]></Param>
+  <Param name="endpointURI"><![CDATA[http://wiktionary.dbpedia.org/sparql]]></Param>
+  <Param name="strategy"><![CDATA[subQuery]]></Param>
+  <Param name="retryPause"><![CDATA[1000]]></Param>
+  <Param name="graph"><![CDATA[]]></Param>
+  <Param name="queryParameters"><![CDATA[]]></Param>
+  <Param name="login"><![CDATA[]]></Param>
+  <Param name="useOrderBy"><![CDATA[true]]></Param>
+  <Param name="entityList"><![CDATA[]]></Param>
+  <Param name="password"><![CDATA[]]></Param>
+  <MetaData>
+    <Label></Label>
+    <Description></Description>
+  </MetaData>
+</Dataset>

@@ -1,0 +1,22 @@
+<Interlink id="task_wiktionary">
+  <MetaData>
+    <Label></Label>
+    <Description></Description>
+  </MetaData>
+  <SourceDataset dataSource="hunspell" var="a" typeUri="http://lemon-model.net/lemon#Word">
+    <RestrictTo> </RestrictTo>
+  </SourceDataset>
+  <TargetDataset dataSource="wiktionary" var="b" typeUri="http://lemon-model.net/lemon#Word">
+    <RestrictTo> </RestrictTo>
+  </TargetDataset>
+  <LinkageRule linkType="&lt;http://www.w3.org/2002/07/owl#sameAs&gt;">
+    <Compare id="equality1" required="false" weight="1" metric="equality" threshold="0.0" indexing="true">
+      <Input id="sourcePath1" path="/&lt;http://lemon-model.net/lemon#lexicalForm&gt;"/>
+      <Input id="targetPath1" path="/&lt;http://lemon-model.net/lemon#lexicalForm&gt;"/>
+    </Compare>
+    <Filter/>
+  </LinkageRule>
+  <Outputs>
+    <Output id="link-wiktionary"></Output>
+  </Outputs>
+</Interlink>

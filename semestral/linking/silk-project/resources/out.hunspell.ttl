@@ -1,0 +1,4733 @@
+@prefix dcterms:  <http://dublincore.org/2012/06/14/dcterms#> .
+@prefix lemon:  <http://lemon-model.net/lemon#> .
+@prefix rdf:  <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+
+<http://example.com/hunspell/abeceda>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "abeceda"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/aberace>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "aberace"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/ablace>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "ablace"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/abolice>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "abolice"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/abolicionismus>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "abolicionismus"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/abortivn%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "abortivní"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/abraze>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "abraze"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/absolutn%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "absolutní"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/absolvovat>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "absolvovat"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/admir%C3%A1l>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "admirál"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/adresa>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "adresa"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/ak%C3%A1cie>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "akácie"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/akademie>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "akademie"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/akor%C3%A1t>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "akorát"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/akv%C3%A1rium>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "akvárium"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/alkohol>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "alkohol"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/alt>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "alt"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/Amazonka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Amazonka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/ambulance>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "ambulance"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/amen>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "amen"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/Ameri%C4%8Dan>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Američan"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/amp%C3%A9rhodina>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "ampérhodina"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/anaglyf>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "anaglyf"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/anatomie>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "anatomie"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/anga%C5%BEm%C3%A1>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "angažmá"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/ani>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "ani"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/animozita>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "animozita"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/aplikace>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "aplikace"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/apokalypsa>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "apokalypsa"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/apologetika>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "apologetika"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/apo%C5%A1tol>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "apoštol"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/arbitr%C3%A1rn%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "arbitrární"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/aretace>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "aretace"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/arch>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "arch"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/archiv>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "archiv"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/arch%C3%ADv>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "archív"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/aromatick%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "aromatický"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/asi>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "asi"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/ateismus>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "ateismus"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/At%C3%A9ny>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Atény"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/Babylon>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Babylon"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/bagr>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "bagr"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/bakal%C3%A1%C5%99>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "bakalář"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/bakelit>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "bakelit"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/bak%C5%A1i%C5%A1>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "bakšiš"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/balast>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "balast"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/ban%C3%A1n>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "banán"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/banda>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "banda"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/banka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "banka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/bankrot>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "bankrot"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/barmsk%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "barmský"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/barva>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "barva"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/b%C3%A1se%C5%88>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "báseň"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/bastard>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "bastard"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/b%C3%A1ze>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "báze"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/bazili%C5%A1ek>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "bazilišek"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/ba%C5%BEant>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "bažant"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/bekhend>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "bekhend"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/B%C4%9Blehrad>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Bělehrad"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/Ben%C3%A1tky>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Benátky"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/berla>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "berla"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/berle>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "berle"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/beru%C5%A1ka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "beruška"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/beryl>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "beryl"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/bezd%C4%9Bky>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "bezděky"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/Bezd%C4%9Bz>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Bezděz"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/bible>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "bible"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/bigotn%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "bigotní"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/bili%C3%A1r>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "biliár"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/b%C3%ADl%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "bílý"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/biofeedback>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "biofeedback"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/bit>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "bit"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/blazeovan%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "blazeovaný"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/blbec>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "blbec"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/blbina>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "blbina"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/bl%C3%ADzk%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "blízký"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/blok>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "blok"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/bl%C5%AFza>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "blůza"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/bl%C5%AFzi%C4%8Dka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "blůzička"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/bl%C5%AFzka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "blůzka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/Bohnice>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Bohnice"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/bolehlav>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "bolehlav"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/bol%C5%A1evik>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "bolševik"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/bombastick%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "bombastický"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/bomba>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "bomba"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/bond>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "bond"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/bonus>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "bonus"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/bordel>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "bordel"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/boule>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "boule"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/brambora>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "brambora"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/br%C3%A1na>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "brána"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/branka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "branka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/bratr>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "bratr"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/br%C3%ADfink>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "brífink"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/broskev>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "broskev"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/brousit>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "brousit"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/brundib%C3%A1r>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "brundibár"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/brusla%C5%99ka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "bruslařka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/brva>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "brva"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/brzo>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "brzo"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/brzy>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "brzy"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/B%C5%99eznice>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Březnice"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/B%C5%99e%C5%BEany>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Břežany"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/bub%C3%ADnek>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "bubínek"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/budi%C5%BE>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "budiž"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/budka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "budka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/bula>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "bula"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/bulv%C3%A1r>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "bulvár"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/bum%C3%A1%C5%BEka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "bumážka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/bu%C5%88ka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "buňka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/bu%C5%99t>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "buřt"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/cajk>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "cajk"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/celer>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "celer"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/cik%C3%A1n%C4%9B>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "cikáně"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/c%C3%ADrkev>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "církev"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/cirkus>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "cirkus"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/c%C3%ADsa%C5%99>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "císař"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/ciz%C3%A1k>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "cizák"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/coby>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "coby"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/cukr>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "cukr"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/cukrovka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "cukrovka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C4%8Dabajka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "čabajka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C4%8Dabraka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "čabraka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C4%8Daj>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "čaj"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C4%8D%C3%A1rka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "čárka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C4%8Dastu%C5%A1ka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "častuška"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C4%8Cech>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Čech"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C4%8Dern%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "černý"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C4%8Cesk%C3%A1>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Česká"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C4%8Dest>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "čest"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C4%8Dil%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "čilý"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C4%8Di%C5%A1et>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "čišet"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C4%8Dmel%C3%A1k>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "čmelák"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C4%8Dokol%C3%A1da>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "čokoláda"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C4%8Dtverec>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "čtverec"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C4%8F%C3%A1bel>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "ďábel"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/d%C3%A1lka%C5%99ka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "dálkařka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/d%C3%A1lka%C5%99>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "dálkař"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/datum>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "datum"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/d%C3%A1vit>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "dávit"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/decimovat>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "decimovat"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/d%C4%9Bj>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "děj"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/delegace>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "delegace"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/d%C4%9Blnice>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "dělnice"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/d%C3%A9motick%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "démotický"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/den>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "den"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/department>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "department"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/determinace>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "determinace"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/d%C4%9Bvka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "děvka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/diaspora>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "diaspora"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/digesto%C5%99>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "digestoř"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/digit%C3%A1ln%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "digitální"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/dikt%C3%A1tor>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "diktátor"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/diletant>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "diletant"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/diplomacie>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "diplomacie"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/diplomatick%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "diplomatický"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/diplomat>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "diplomat"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/d%C3%ADra>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "díra"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/divadlo>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "divadlo"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/diversifikace>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "diversifikace"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/diverzifikace>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "diverzifikace"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/dnes>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "dnes"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/dobr%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "dobrý"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/Dob%C5%99%C3%AD%C5%A1>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Dobříš"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/dohled>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "dohled"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/doln%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "dolní"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/domov>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "domov"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/dost>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "dost"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/doubrava>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "doubrava"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/dr%C3%A1b>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "dráb"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/dr%C3%A1t>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "drát"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/dr%C5%A1%C5%A5ka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "dršťka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/druh%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "druhý"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/dru%C5%BEice>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "družice"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/dru%C5%BEka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "družka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/dru%C5%BEstvo>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "družstvo"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/duhovka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "duhovka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/duma>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "duma"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/du%C5%A1en%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "dušení"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/dvoj%C4%8De>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "dvojče"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/dvojte%C4%8Dka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "dvojtečka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/d%C3%BDn%C4%9B>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "dýně"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/d%C5%BEb%C3%A1n>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "džbán"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/ekonomie>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "ekonomie"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/ekonomika>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "ekonomika"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/ekonom>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "ekonom"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/elativ>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "elativ"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/elektron>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "elektron"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/elekt%C5%99ina>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "elektřina"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/el%C3%A9v>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "elév"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/elipsa>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "elipsa"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/energie>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "energie"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/entita>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "entita"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/erb>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "erb"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/erupce>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "erupce"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/escudo>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "escudo"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/esoterick%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "esoterický"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/etiketa>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "etiketa"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/etymologie>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "etymologie"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/eufemismus>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "eufemismus"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/Evropa>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Evropa"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/exces>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "exces"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/expirace>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "expirace"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/ezoterick%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "ezoterický"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/facka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "facka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/fakule>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "fakule"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/fara>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "fara"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/fas%C3%A1da>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "fasáda"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/feminismus>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "feminismus"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/fena>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "fena"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/f%C3%A9n>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "fén"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/fe%C5%A1%C3%A1k>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "fešák"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/firma>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "firma"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/fi%C5%A1tr%C3%B3n>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "fištrón"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/f%C3%ADzl>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "fízl"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/fla%C5%A1ka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "flaška"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/fluktuace>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "fluktuace"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/fofr>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "fofr"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/foch>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "foch"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/folkl%C3%B3r>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "folklór"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/forhend>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "forhend"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/formule>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "formule"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/f%C3%B3rum>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "fórum"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/fotr>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "fotr"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/frajer>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "frajer"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/fraktura>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "fraktura"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/frapantn%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "frapantní"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/fundace>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "fundace"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/funkce>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "funkce"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/futro>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "futro"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/galantn%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "galantní"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/gau%C4%8D>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "gauč"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/gen>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "gen"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/gestapo>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "gestapo"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/golf>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "golf"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/gran%C3%A1t>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "granát"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/gr%C3%A1zl>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "grázl"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/gul%C3%A1%C5%A1>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "guláš"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/gymnastika>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "gymnastika"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/hacienda>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "hacienda"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/hambalek>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "hambalek"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/hav%C4%9B%C5%A5>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "havěť"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/h%C3%A9donismus>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "hédonismus"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/hejtman>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "hejtman"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/helium>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "helium"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/h%C3%A9lium>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "hélium"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/het%C3%A9ra>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "hetéra"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/hezk%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "hezký"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/hlava>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "hlava"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/hledi%C5%A1t%C4%9B>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "hlediště"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/hmota>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "hmota"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/hodn%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "hodný"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/hoch>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "hoch"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/holi%C4%8D>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "holič"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/holka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "holka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/hora>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "hora"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/horn%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "horní"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/ho%C5%99%C4%8Dice>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "hořčice"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/hosana>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "hosana"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/hospic>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "hospic"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/house>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "house"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/houser>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "houser"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/houska>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "houska"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/housla%C5%99>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "houslař"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/housti%C4%8Dka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "houstička"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/hovno>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "hovno"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/hrdlo>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "hrdlo"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/hrne%C4%8Dek>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "hrneček"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/hroch>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "hroch"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/hubi%C4%8Dka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "hubička"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/hu%C4%8Det>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "hučet"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/hudba>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "hudba"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/humanismus>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "humanismus"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/humno>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "humno"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/humus>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "humus"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/husar>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "husar"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/hydra>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "hydra"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/hypertrofie>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "hypertrofie"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/chameleon>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "chameleon"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/chamele%C3%B3n>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "chameleón"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/chata>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "chata"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/chlor>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "chlor"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/Chlumec>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Chlumec"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/chmela%C5%99ka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "chmelařka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/chomout>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "chomout"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/chroust>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "chroust"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/idea>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "idea"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/idiot>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "idiot"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/ignorace>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "ignorace"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/imatrikulace>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "imatrikulace"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/inaugurace>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "inaugurace"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/individu%C3%A1ln%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "individuální"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/inkoust>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "inkoust"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/inkub%C3%A1tor>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "inkubátor"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/instrument>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "instrument"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/integrace>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "integrace"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/integrita>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "integrita"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/Izrael>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Izrael"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/jahoda>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "jahoda"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/jah%C5%AFdka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "jahůdka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/Jana>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Jana"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/jazyk>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "jazyk"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/jednor%C3%A1zov%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "jednorázový"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/jednotka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "jednotka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/jedov%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "jedový"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/Jid%C3%A1%C5%A1>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Jidáš"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/Jihlava>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Jihlava"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/jinak>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "jinak"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/jiskra>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "jiskra"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/Jizera>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Jizera"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/jm%C3%A9no>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "jméno"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/junior>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "junior"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kabala>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kabala"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kabriolet>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kabriolet"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kab%C5%99inec>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kabřinec"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kac%C3%AD%C5%99>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kacíř"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kalend%C3%A1%C5%99>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kalendář"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/Kalifornie>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Kalifornie"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kalit>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kalit"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kamar%C3%A1d>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kamarád"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kanoistka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kanoistka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kapeln%C3%ADk>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kapelník"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kapit%C3%A1n>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kapitán"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/karma>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "karma"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kask%C3%A1da>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kaskáda"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kategorie>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kategorie"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/k%C3%A1va>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "káva"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kavi%C3%A1r>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kaviár"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/k%C3%A1ze%C5%88>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kázeň"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kazeta>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kazeta"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kecka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kecka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kilometrov%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kilometrový"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kl%C3%AD%C4%8Denka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "klíčenka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/klima>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "klima"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kli%C5%A1%C3%A9>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "klišé"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kli%C5%BEka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kližka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/klokan>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "klokan"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kloko%C4%8D%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "klokočí"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kn%C4%9Bz>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kněz"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kn%C3%AD%C5%BEe>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kníže"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kn%C3%AD%C5%BEka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "knížka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/knuta>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "knuta"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kobyla>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kobyla"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/ko%C4%8D%C3%A1rek>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kočárek"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/k%C3%B3d>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kód"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/koincidence>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "koincidence"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/Kojetice>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Kojetice"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kokarda>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kokarda"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kol%C3%A1%C4%8Dek>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "koláček"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kolbi%C5%A1t%C4%9B>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kolbiště"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/koleda>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "koleda"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kolegyn%C4%9B>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kolegyně"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/koleno>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "koleno"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kol%C3%ADnko>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kolínko"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/Kol%C3%ADn>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Kolín"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kometa>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kometa"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kom%C3%ADn>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "komín"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/komora>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "komora"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/komplex>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "komplex"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/konfirmace>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "konfirmace"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/konina>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "konina"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/konsistentn%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "konsistentní"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/konstrukce>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "konstrukce"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kontrola>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kontrola"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/konvekce>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "konvekce"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/konzistentn%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "konzistentní"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/konzola>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "konzola"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kopa>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kopa"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/koryfej>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "koryfej"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/ko%C5%99ist>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kořist"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kostel>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kostel"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kostka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kostka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kostlivec>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kostlivec"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kostra>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kostra"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/ko%C5%A1>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "koš"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/koukat>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "koukat"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kou%C5%99mo>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kouřmo"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kousek>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kousek"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/koza>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "koza"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kr%C3%A1l%C3%AD%C4%8Dek>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "králíček"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kr%C3%A1l%C3%ADk>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "králík"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kr%C3%A1l>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "král"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kr%C3%A1sn%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "krásný"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kravata>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kravata"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kravina>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kravina"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kredenc>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kredenc"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kripl>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kripl"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/krk>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "krk"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/krok>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "krok"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/krtek>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "krtek"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/krupobit%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "krupobití"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kr%C5%AFta>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "krůta"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/k%C5%99em%C3%ADk>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "křemík"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/k%C5%99est>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "křest"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/k%C5%99%C3%ADdlovka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "křídlovka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/k%C5%99ivdit>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "křivdit"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/k%C5%99t%C3%ADt>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "křtít"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kudla>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kudla"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kulo%C3%A1r>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kuloár"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kult>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kult"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kupec>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kupec"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kur>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kur"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kurva>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kurva"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kurz>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kurz"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/k%C5%AF%C5%BEe>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kůže"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kvadrant>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kvadrant"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kvadr%C3%A1t>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kvadrát"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/kvalita>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "kvalita"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/l%C3%A1dovat>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "ládovat"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/lajd%C3%A1k>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "lajdák"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/lapa%C4%8Dka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "lapačka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/laponsk%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "laponský"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/larva>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "larva"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/l%C3%A1tka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "látka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/latr%C3%ADna>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "latrína"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/laxn%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "laxní"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/lazaret>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "lazaret"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/led>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "led"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/ledvinka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "ledvinka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/legenda>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "legenda"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/leporelo>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "leporelo"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/lep%C5%A1%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "lepší"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/lesbick%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "lesbický"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/l%C3%A9zt>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "lézt"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/libreto>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "libreto"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/licence>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "licence"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/li%C4%8Di>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "liči"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/lidov%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "lidový"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/lidstvo>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "lidstvo"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/limbus>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "limbus"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/limuz%C3%ADna>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "limuzína"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/l%C3%ADstek>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "lístek"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/litera>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "litera"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/lithium>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "lithium"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/logopedie>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "logopedie"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/losos>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "losos"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/Lounsko>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Lounsko"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/loutna>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "loutna"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/lupenka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "lupenka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/lup>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "lup"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/lyska>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "lyska"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/l%C5%BEi%C4%8Dka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "lžička"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/magnet>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "magnet"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/machna>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "machna"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/makadam>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "makadam"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/makat>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "makat"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/Malta>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Malta"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/mamon>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "mamon"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/mandel>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "mandel"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/man%C5%A1estr>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "manšestr"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/mantra>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "mantra"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/maraton>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "maraton"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/marcip%C3%A1n>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "marcipán"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/markrab%C4%9B>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "markrabě"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/Ma%C5%99%C3%ADk>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Mařík"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/mas%C3%A1%C5%BE>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "masáž"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/maska>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "maska"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/masov%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "masový"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/matka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "matka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/matrika>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "matrika"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/medv%C4%9Bdice>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "medvědice"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/medv%C4%9Bd>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "medvěd"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/merenda>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "merenda"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/meta%C5%99ka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "metařka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/meta>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "meta"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/metr>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "metr"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/metropole>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "metropole"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/mik%C3%A1do>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "mikádo"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/Mikulovice>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Mikulovice"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/miln%C3%ADk>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "milník"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/miner%C3%A1lka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "minerálka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/mi%C5%88onka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "miňonka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/minuta>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "minuta"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/m%C3%ADra>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "míra"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/m%C3%ADtink>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "mítink"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/ml%C3%ADt>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "mlít"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/ml%C3%BDnek>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "mlýnek"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/ml%C3%BDn>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "mlýn"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/mno%C5%BEstv%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "množství"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/mr%C3%A1%C4%8Dek>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "mráček"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/mrak>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "mrak"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/mrka%C4%8Dka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "mrkačka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/mrkev>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "mrkev"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/mr%C5%A5>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "mrť"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/m%C5%A1e>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "mše"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/muchom%C5%AFrka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "muchomůrka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/mund%C3%BAr>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "mundúr"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/m%C5%AFstek>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "můstek"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/muzeum>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "muzeum"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/muzika>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "muzika"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/mu%C5%BEstvo>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "mužstvo"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/m%C3%BDto>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "mýto"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/na>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "na"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/nadhled>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "nadhled"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/nahr%C3%A1t>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "nahrát"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/napadnout>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "napadnout"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/nark%C3%B3za>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "narkóza"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/n%C3%A1stroj>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "nástroj"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/nativn%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "nativní"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/n%C3%A1v%C5%A1t%C4%9Bva>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "návštěva"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/nebe>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "nebe"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/nebesa>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "nebesa"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/ned%C4%9Ble>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "neděle"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/nek%C5%88uba>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "nekňuba"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/ne%C5%BEli>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "nežli"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/nika>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "nika"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/nirv%C3%A1na>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "nirvána"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/noha>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "noha"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/novinka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "novinka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/nu>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "nu"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/ob%C4%8Derstven%EF%BF%BD%EF%BF%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "občerstven��"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/obl%C3%A1%C4%8Dek>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "obláček"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/oblak>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "oblak"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/obligace>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "obligace"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/obl%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "oblý"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/oboustrann%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "oboustranný"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/obr%C3%A1zek>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "obrázek"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/ob%C5%BEerstv%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "obžerství"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/ocas>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "ocas"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/odysea>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "odysea"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/ohe%C5%88>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "oheň"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/okultn%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "okultní"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/olej>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "olej"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/oligarchie>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "oligarchie"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/onomatopoick%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "onomatopoický"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/Opava>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Opava"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/opce>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "opce"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/org%C3%A1n>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "orgán"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/organisace>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "organisace"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/organismus>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "organismus"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/organizace>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "organizace"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/origin%C3%A1l>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "originál"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/origin%C3%A1ln%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "originální"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/ork%C3%A1n>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "orkán"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/oslnit>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "oslnit"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/Osv%C4%9Btim>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Osvětim"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/o%C5%A1kliv%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "ošklivý"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/o%C5%A1t%C4%9Bp>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "oštěp"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/otorinolaryngologie>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "otorinolaryngologie"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/otr%C3%A1vit>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "otrávit"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/otrok>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "otrok"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/pacht%C4%9Bn%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "pachtění"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/pal%C3%A1c>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "palác"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/p%C3%A1lenka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "pálenka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/pali%C4%8Dka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "palička"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/p%C3%A1mb%C3%AD%C4%8Dek>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "pámbíček"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/p%C3%A1nb%C3%AD%C4%8Dek>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "pánbíček"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/p%C3%A1nb%C5%AFh>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "pánbůh"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/panenka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "panenka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/panychida>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "panychida"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/paradigma>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "paradigma"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/paragraf>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "paragraf"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/p%C3%A1rek>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "párek"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/parchant>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "parchant"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/parlament>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "parlament"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/parte>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "parte"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/partner>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "partner"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/pas%C3%A1%C5%BE>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "pasáž"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/p%C3%A1st>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "pást"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/patent>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "patent"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/pero>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "pero"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/pes>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "pes"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/petit>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "petit"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/p%C4%9Btka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "pětka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/petr%C5%BEel>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "petržel"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/piglovat>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "piglovat"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/p%C3%ADch%C3%A1n%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "píchání"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/pila>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "pila"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/pilka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "pilka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/pilot>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "pilot"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/pimprle>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "pimprle"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/pin>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "pin"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/piso%C3%A1r>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "pisoár"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/pistole>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "pistole"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/pi%C5%A1kot>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "piškot"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/p%C3%ADt>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "pít"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/pit%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "pití"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/pitom%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "pitomý"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/Pius>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Pius"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/pivo>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "pivo"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/placebo>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "placebo"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/pl%C3%A1cek>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "plácek"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/plac>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "plac"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/pl%C3%A1tek>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "plátek"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/plebs>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "plebs"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/plesk>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "plesk"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/plocha>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "plocha"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/plyn>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "plyn"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/pocit>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "pocit"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/podl%C3%A9%C5%A1ka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "podléška"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/poh%C3%A1r>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "pohár"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/pohrou%C5%BEen%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "pohroužení"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/pochod>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "pochod"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/pointa>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "pointa"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/poker>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "poker"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/pokolen%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "pokolení"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/pol%C3%AD%C4%8Dko>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "políčko"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/polka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "polka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/poml%C3%A1zka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "pomlázka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/poprava>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "poprava"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/porod>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "porod"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/porota>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "porota"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/portmonka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "portmonka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/poselstvo>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "poselstvo"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/posl%C3%AD%C4%8Dek>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "poslíček"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/pot%C3%ADtko>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "potítko"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/potkan>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "potkan"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/potopa>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "potopa"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/Pot%C5%A1tejn>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Potštejn"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/potvrdit>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "potvrdit"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/pov%C4%9Bt%C5%99%EF%BF%BD%EF%BF%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "povětř��"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/p%C3%B3vl>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "póvl"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/povrch>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "povrch"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/po%C5%BEadavek>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "požadavek"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/pr%C3%A1dlo>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "prádlo"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/Praha>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Praha"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/prach%C3%A1rna>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "prachárna"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/prase>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "prase"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/prastr%C3%BDc>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "prastrýc"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/prav%C3%A1k>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "pravák"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/pravda>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "pravda"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/prdel>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "prdel"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/prejt>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "prejt"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/president>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "president"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/prima>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "prima"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/princip>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "princip"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/problematick%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "problematický"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/procedura>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "procedura"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/proces>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "proces"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/produkce>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "produkce"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/produkt>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "produkt"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/profese>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "profese"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/profil>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "profil"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/program>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "program"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/progresivn%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "progresivní"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/prokur%C3%A1tor>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "prokurátor"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/propu%C5%A1t%C4%9Bn%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "propuštění"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/prost%C5%99edek>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "prostředek"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/protagonistka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "protagonistka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/provokace>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "provokace"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/pr%C5%A1et>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "pršet"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/prvek>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "prvek"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/prvopl%C3%A1nov%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "prvoplánový"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/pr%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "prý"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/prznit>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "prznit"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/p%C5%99edev%C5%A1%C3%ADm>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "především"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/p%C5%99edlo%C5%BEka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "předložka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/p%C5%99eklad>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "překlad"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/p%C5%99eru%C5%A1en%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "přerušení"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/p%C5%99es>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "přes"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/p%C5%99e%C5%BE%C3%ADt>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "přežít"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/p%C5%99%C3%ADdech>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "přídech"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/p%C5%99%C3%ADslu%C5%A1nice>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "příslušnice"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/p%C5%99ist%C3%A1n%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "přistání"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/p%C5%99itom>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "přitom"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/p%C5%AFlka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "půlka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/p%C5%AFlm%C4%9Bs%C3%ADc>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "půlměsíc"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/p%C5%AFlnoc>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "půlnoc"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/pusinka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "pusinka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/pu%C5%A1kvorec>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "puškvorec"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/pylon>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "pylon"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/pytel>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "pytel"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/pytl%C3%A1k>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "pytlák"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/r%C3%A1dio>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "rádio"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/radiostanice>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "radiostanice"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/raketa>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "raketa"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/rakev>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "rakev"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/ras>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "ras"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/ra%C5%A1ple>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "rašple"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/rdousit>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "rdousit"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/rebel>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "rebel"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/recepce>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "recepce"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/reciprocita>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "reciprocita"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/reflexe>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "reflexe"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/reklama>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "reklama"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/rektor>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "rektor"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/relace>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "relace"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/renesance>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "renesance"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/replika>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "replika"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/reprodukce>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "reprodukce"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/respekt>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "respekt"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/restaurace>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "restaurace"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/re%C5%A1er%C5%A1e>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "rešerše"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/retro>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "retro"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/revolver>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "revolver"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/rezervo%C3%A1r>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "rezervoár"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/re%C5%BEim>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "režim"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/robinzon%C3%A1da>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "robinzonáda"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/robustn%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "robustní"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/rod>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "rod"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/role>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "role"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/romance>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "romance"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/rom%C3%A1nek>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "románek"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/ropucha>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "ropucha"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/ror%C3%A1ty>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "roráty"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/Rosice>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Rosice"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/rozb%C4%9Bh>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "rozběh"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/rozm%C4%9Br>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "rozměr"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/rozmno%C5%BEov%C3%A1n%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "rozmnožování"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/rub%C3%ADn>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "rubín"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/rus>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "rus"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/r%C5%AFzn%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "různý"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/r%C5%AF%C5%BEenec>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "růženec"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/r%C5%AF%C5%BE>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "růž"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/rycht%C3%A1%C5%99>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "rychtář"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/ryt%C3%AD%C5%99>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "rytíř"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%99%C3%A1d>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "řád"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%99%C3%A1dka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "řádka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/safari>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "safari"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/samostatn%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "samostatný"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/S%C3%A1zava>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Sázava"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/sc%C3%A9n%C3%A1%C5%99>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "scénář"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/se%C4%8D>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "seč"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/sedma>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "sedma"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/sekera>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "sekera"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/sekul%C3%A1rn%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "sekulární"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/sekyra>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "sekyra"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/semitsk%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "semitský"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/sen%C3%A1t>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "senát"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/seniln%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "senilní"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/senior>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "senior"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/seno>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "seno"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/s%C3%A9rie>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "série"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/s%C3%A9rum>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "sérum"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/sestra>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "sestra"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/se%C5%A1it>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "sešit"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/set>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "set"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/sex>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "sex"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/show>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "show"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/sign%C3%A1l>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "signál"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/silni%C4%8D%C3%A1%C5%99>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "silničář"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/s%C3%ADrov%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "sírový"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/sir>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "sir"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/sjezda%C5%99ka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "sjezdařka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/skanzen>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "skanzen"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/skaut>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "skaut"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/skupina>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "skupina"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/slabina>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "slabina"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/slang>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "slang"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/sle%C4%8Dna>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "slečna"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/slepit>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "slepit"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/slep%C3%BD%C5%A1>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "slepýš"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/Slezanka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Slezanka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/slizk%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "slizký"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/slon>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "slon"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/slovan%C5%A1tina>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "slovanština"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/slovn%C3%ADk>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "slovník"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/smr%C5%A1%C5%A5>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "smršť"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/sou%C4%8D%C3%A1st>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "součást"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/soudru%C5%BEka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "soudružka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/soudr%C5%BEn%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "soudržný"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/sou%C5%A1>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "souš"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/sp%C3%A1nek>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "spánek"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/spojen%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "spojení"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/spole%C4%8Denstv%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "společenství"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/sponsor>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "sponsor"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/sponzor>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "sponzor"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/spropitn%C3%A9>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "spropitné"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/staroanglick%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "staroanglický"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/starosta>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "starosta"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/st%C4%9B%C5%BE%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "stěží"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/stigma>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "stigma"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/stojka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "stojka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/stolice>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "stolice"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/stop>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "stop"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/str%C3%A1vit>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "strávit"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/stravn%C3%A9>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "stravné"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/strej%C4%8Dek>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "strejček"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/str%C3%BD%C4%8Dek>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "strýček"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/st%C5%99et>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "střet"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/st%C5%99ev%C3%ADc>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "střevíc"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/st%C5%99%C3%ADda%C4%8Dka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "střídačka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/st%C5%99%C3%ADvko>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "střívko"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/st%C5%AFl>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "stůl"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/subjekt>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "subjekt"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/subsidiarita>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "subsidiarita"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/substance>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "substance"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/sudi%C4%8Dka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "sudička"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/sudi%C4%8D>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "sudič"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/sun>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "sun"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/suver%C3%A9n>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "suverén"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/sv%C3%A1tek>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "svátek"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/svatost%C3%A1nek>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "svatostánek"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/sv%C3%A9pomoc>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "svépomoc"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/sv%C3%AD%C4%8Dka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "svíčka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/s%C3%BDrov%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "sýrový"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%A1ampuska>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "šampuska"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%A1arivari>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "šarivari"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%A1atlava>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "šatlava"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%A1ejk>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "šejk"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%A1elma>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "šelma"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%A1eredn%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "šeredný"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%A1ermovat>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "šermovat"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%A1e%C5%99%C3%ADk>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "šeřík"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%A1estn%C3%A1ctka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "šestnáctka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%A1ib%C5%99inky>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "šibřinky"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%A1id%C3%ADtko>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "šidítko"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%A1kared%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "škaredý"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%A1katule>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "škatule"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%A1kodit>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "škodit"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%A1kola>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "škola"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%A1lupka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "šlupka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%A1mrnc>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "šmrnc"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%A1pageta>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "špageta"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%A1p%C3%A1sovat>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "špásovat"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%A1pendl%C3%ADk>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "špendlík"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%A1pinav%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "špinavý"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%A1p%C3%ADna>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "špína"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%A1pinit>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "špinit"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%A1pit%C3%A1l>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "špitál"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%A1rot>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "šrot"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%A1tamprle>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "štamprle"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%A1t%C4%9Brbinka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "štěrbinka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%A1t%C4%9Bst%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "štěstí"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%A1toudev>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "štoudev"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%A1turm>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "šturm"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%A1uk%C3%A1n%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "šukání"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%A1vestka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "švestka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/tablet>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "tablet"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/tabule>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "tabule"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/t%C3%A1go>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "tágo"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/tal%C3%AD%C5%99>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "talíř"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/talmud>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "talmud"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/tandem>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "tandem"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/ta%C5%A1k%C3%A1%C5%99>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "taškář"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/tatarsk%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "tatarský"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/te%C4%8Dka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "tečka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/technika>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "technika"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/technolog>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "technolog"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/telefon>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "telefon"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/t%C4%9Blo>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "tělo"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/Temel%C3%ADn>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Temelín"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/tendr>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "tendr"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/teorie>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "teorie"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/tepl%C3%A1ky>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "tepláky"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/tesil>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "tesil"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/thajsk%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "thajský"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/t%C3%ADse%C5%88>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "tíseň"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/tomato>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "tomato"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/topologie>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "topologie"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/t%C3%B3ra>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "tóra"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/torn%C3%A1do>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "tornádo"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/toti%C5%BE>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "totiž"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/trativod>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "trativod"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/tr%C3%A1vit>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "trávit"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/trefa>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "trefa"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/trno%C5%BE>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "trnož"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/Trojan>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Trojan"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/troll>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "troll"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/trpasl%C3%ADk>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "trpaslík"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/trubka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "trubka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/truhla>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "truhla"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/tr%C5%AFn>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "trůn"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/trup>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "trup"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/tryska>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "tryska"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/tucet>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "tucet"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/tumpachov%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "tumpachový"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/tup%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "tupý"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/turek>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "turek"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/tvar>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "tvar"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/tvrdit>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "tvrdit"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/tyran>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "tyran"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/ud%C3%A1lost>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "událost"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C3%BAder>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "úder"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/uhl%C3%ADk>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "uhlík"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C3%BAjezd>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "újezd"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/ukazatel>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "ukazatel"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/ulice>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "ulice"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/uli%C4%8Dka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "ulička"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C3%BApis>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "úpis"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/urazit>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "urazit"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/urna>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "urna"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C3%9Ast%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Ústí"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/vak>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "vak"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/Valach>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Valach"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/valn%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "valný"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/Var%C5%A1ava>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "Varšava"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/ve%C4%8Dern%C3%AD%C4%8Dek>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "večerníček"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/velbloud>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "velbloud"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/veli%C4%8Dina>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "veličina"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/velk%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "velký"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/verb%C3%A1ln%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "verbální"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/ver%C5%A1otepec>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "veršotepec"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/v%C4%9Brtel>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "věrtel"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/vesm%C4%9Bs>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "vesměs"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/vesm%C3%ADr>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "vesmír"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/v%C3%A9voda>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "vévoda"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/vezdej%C5%A1%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "vezdejší"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/v%C4%9Bzen%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "vězení"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/vich%C5%99ice>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "vichřice"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/viln%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "vilný"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/v%C3%ADtr>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "vítr"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/vitr%C3%A1%C5%BE>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "vitráž"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/vitriol>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "vitriol"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/vlna>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "vlna"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/vod%C3%A1rna>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "vodárna"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/voda>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "voda"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/vodi%C4%8D>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "vodič"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/vod%C3%ADk>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "vodík"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/vodn%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "vodní"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/vok%C3%A1l>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "vokál"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/volej>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "volej"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/volit>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "volit"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/voz%C3%ADk>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "vozík"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/vozovka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "vozovka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/vran%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "vraný"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/vskutku>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "vskutku"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/vst%C5%99%C3%ADc>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "vstříc"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/v%C5%A1estrann%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "všestranný"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/vte%C5%99ina>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "vteřina"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/v%C5%AF%C4%8Di>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "vůči"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/v%C5%AFz>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "vůz"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/vydra>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "vydra"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/v%C3%BDhe%C5%88>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "výheň"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/v%C3%BDjimka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "výjimka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/v%C3%BDpaln%C3%A9>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "výpalné"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/v%C3%BD%C5%A1ka%C5%99>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "výškař"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/vy%C5%BEle>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "vyžle"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/vz%C3%A1p%C4%9Bt%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "vzápětí"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/vzh%C5%AFru>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "vzhůru"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/vzk%C5%99%C3%ADsit>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "vzkřísit"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/vzk%C5%99%C3%AD%C5%A1en%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "vzkříšení"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/workshop>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "workshop"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/za%C4%8D%C3%A1tek>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "začátek"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/zah%C3%A1lka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "zahálka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/za%C5%99%C3%ADzen%C3%AD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "zařízení"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/z%C3%A1sah>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "zásah"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/z%C3%A1vit>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "závit"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/zblo>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "zblo"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/zeman>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "zeman"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/zemsk%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "zemský"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/zh%C5%AFv%C4%9B%C5%99il%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "zhůvěřilý"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/zima>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "zima"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/zlod%C4%9Bjka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "zlodějka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/zp%C5%AFsob>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "způsob"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%BEalm>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "žalm"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%BEehnat>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "žehnat"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%BEensk%C3%BD>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "ženský"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%BEert>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "žert"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%BEiletka>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "žiletka"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%BE%C3%ADn%C4%9B>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "žíně"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%BEirafa>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "žirafa"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%BEivotopis>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "životopis"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%BEr%C3%A1t>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "žrát"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%BEumpa>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "žumpa"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
+
+<http://example.com/hunspell/%C5%BEurn%C3%A1l>
+        rdf:type           lemon:Word ;
+        lemon:lexicalForm  "žurnál"@cs ;
+        dcterms:language   "cs"^^dcterms:ISO639-3 .
