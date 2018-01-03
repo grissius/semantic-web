@@ -1,6 +1,5 @@
 import org.apache.jena.query.QuerySolution;
 import org.apache.jena.query.ResultSet;
-import org.apache.jena.query.ResultSetFormatter;
 import query.QueryBag;
 
 import javax.servlet.ServletException;
@@ -16,7 +15,7 @@ import java.io.IOException;
 @WebServlet("/word")
 public class WordServlet extends HttpServlet {
     protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-        ResultSet results = QueryBag.exec(QueryBag.word(request.getParameter("word")));
+        ResultSet results = QueryBag.execSelect(QueryBag.word(request.getParameter("word")));
         response.getWriter().println("<a href=\"/index\">back to index</a>");
         while (results.hasNext()) {
             response.getWriter().println("<table>");
@@ -32,13 +31,13 @@ public class WordServlet extends HttpServlet {
             response.getWriter().println("<table/>");
         }
         response.getWriter().println("<h2>Links</h2>");
-        results = QueryBag.exec(QueryBag.wiktionaryLink(request.getParameter("word")));
+        results = QueryBag.execSelect(QueryBag.wiktionaryLink(request.getParameter("word")));
         while (results.hasNext()) {
             response.getWriter().println("<h3>Wiktionary</h3>");
             QuerySolution soln = results.nextSolution();
             response.getWriter().println("<a href=\"" + (soln.contains("another") ? soln.get("another").asResource().getURI() : "#") + "\">Wiktionary link</a>");
         }
-        results = QueryBag.exec(QueryBag.related(request.getParameter("word")));
+        results = QueryBag.execSelect(QueryBag.related(request.getParameter("word")));
         response.getWriter().println("<h3>Related</h3>");
         while (results.hasNext()) {
             QuerySolution soln = results.nextSolution();

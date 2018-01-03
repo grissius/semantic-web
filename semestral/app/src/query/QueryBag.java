@@ -1,6 +1,7 @@
 package query;
 
 import org.apache.jena.query.*;
+import org.apache.jena.rdf.model.Model;
 
 /**
  * Created by smolijar on 1/3/18.
@@ -13,7 +14,7 @@ public class QueryBag {
                 "PREFIX lexinfo: <http://www.lexinfo.net/ontology/2.0/lexinfo#>\n" +
                 "PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>\n" +
                 "\n" +
-                "SELECT ?word ?freq ?pos\n" +
+                "SELECT ?wordUri ?word ?freq ?pos\n" +
                 "WHERE {\n" +
                 "\t?wordUri lemon:lexicalForm ?word ;\n" +
                 "          owl:sameAs/ex:wordFrequency ?freq;\n" +
@@ -73,9 +74,25 @@ public class QueryBag {
              "  FILTER(CONTAINS(STR(?another), \"wiktionary.org\") && STR(?word) = \""+ word +"\")\n" +
              "}\n");
     }
-    public static ResultSet exec(Query query) {
+    public static Query normalizedFreq() {
+        return QueryFactory.create("PREFIX ex:  <http://example.com/#>\n" +
+                "\n" +
+                "CONSTRUCT {\n" +
+                "\t?wordUri ex:wordFrequencyRelative ?relFreq.\n" +
+                "}\n" +
+                "WHERE {\n" +
+                "  ?wordUri ex:wordFrequency ?f .\n" +
+                "  BIND(?f/2887640 AS ?relFreq)\n" +
+                "}");
+    }
+    public static ResultSet execSelect(Query query) {
         QueryExecution qexec = QueryExecutionFactory
                 .createServiceRequest("http://localhost:3030/semestral/sparql", query);
         return qexec.execSelect();
+    }
+    public static Model execConstruct(Query query) {
+        QueryExecution qexec = QueryExecutionFactory
+                .createServiceRequest("http://localhost:3030/semestral/sparql", query);
+        return qexec.execConstruct();
     }
 }
