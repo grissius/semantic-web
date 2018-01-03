@@ -1,0 +1,14 @@
+# Find maximum word frequency.
+# Create create a triple with this information for
+# frequency dataset.
+PREFIX ex:  <http://example.com/#>
+PREFIX set:  <http://example.com/set#>
+PREFIX dcat: <http://www.w3.org/ns/dcat#>
+
+CONSTRUCT {
+  	set:freq a dcat:Dataset ;
+	ex:maxWordFreq ?maxF.
+}
+WHERE {
+  SELECT (MAX(?f) as ?maxF) WHERE { ?wordUri ex:wordFrequency ?f .}
+}

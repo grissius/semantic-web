@@ -1,0 +1,6 @@
+# Describe all entities regarding given word
+PREFIX lemon: <http://lemon-model.net/lemon#>
+DESCRIBE ?word WHERE {
+  ?word lemon:lexicalForm ?content .
+  FILTER(STR(?content) = "pravda")
+}

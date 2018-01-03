@@ -1,0 +1,15 @@
+# Find all nouns and verbs
+# Sort by PoS and freq
+PREFIX ex:  <http://example.com/#>
+PREFIX lemon: <http://lemon-model.net/lemon#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+PREFIX lexinfo: <http://www.lexinfo.net/ontology/2.0/lexinfo#>
+
+SELECT ?word ?freq ?pos
+WHERE {
+  VALUES ?pos { lexinfo:NounPOS lexinfo:VerbPOS }
+	?wordUri lemon:lexicalForm ?word ;
+          owl:sameAs*/ex:wordFrequency ?freq ;
+          owl:sameAs*/lexinfo:partOfSpeech/a ?pos .
+}
+ORDER BY DESC(?pos) DESC(?freq)

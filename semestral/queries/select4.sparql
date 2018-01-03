@@ -1,0 +1,10 @@
+# Find wiktionary link for given word
+PREFIX lemon: <http://lemon-model.net/lemon#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+SELECT ?another
+WHERE {
+	?wordUri lemon:lexicalForm ?word ;
+          owl:sameAs ?another .
+  FILTER(CONTAINS(STR(?another), "wiktionary.org") && STR(?word) = "vydra")
+}

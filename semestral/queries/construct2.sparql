@@ -1,0 +1,11 @@
+# Based on `construct2.sparql` results, normalize
+# word frequencies.
+PREFIX ex:  <http://example.com/#>
+
+CONSTRUCT {
+	?wordUri ex:wordFrequencyRelative ?relFreq.
+}
+WHERE {
+  ?wordUri ex:wordFrequency ?f .
+  BIND(?f/2887640 AS ?relFreq)
+}

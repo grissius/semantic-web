@@ -1,0 +1,10 @@
+# Find if there is a stopword with less
+# then 20K occurences.
+PREFIX ex:  <http://example.com/#>
+PREFIX owl: <http://www.w3.org/2002/07/owl#>
+
+ASK {
+  ?wordUri owl:sameAs*/ex:stopword ?stop ;
+      owl:sameAs*/ex:wordFrequency ?freq .
+  FILTER(?stop && ?freq < 20000)
+}
