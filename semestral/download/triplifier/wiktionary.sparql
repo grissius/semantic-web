@@ -28,7 +28,7 @@ CONSTRUCT {
     ex:ethymology ?ethymologyTagged ;
     .
 
-  ?posUri ?posType;
+  ?posUri a ?posType ;
     rdfs:label ?posTagged;
     .
 }
