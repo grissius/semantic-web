@@ -18,11 +18,11 @@ CONSTRUCT {
 
   ?wordUri
     lemon:lexicalForm ?wordTagged;
-    ex:wordFrequency ?freq;
+    ex:wordFrequency ?freqTyped;
     .
 }
 WHERE {
   BIND (URI(CONCAT('http://example.com/frequency/', ?word)) AS ?wordUri)
   BIND (STRLANG(?word, 'cs') as ?wordTagged)
-  BIND (STRDT(?stopword, xsd:boolean) as ?stopwordTyped)
+  BIND (STRDT(?freq, xsd:integer) as ?freqTyped)
 }

@@ -20,6 +20,7 @@ CONSTRUCT {
     lemon:lexicalForm ?wordTagged ;
     lemon:sense ?senseUri ;
     uby:hyphenation ?hyphenationTagged ;
+    lexinfo:partOfSpeech ?posUri ;
     .
 
   ?senseUri a lemon:LexicalSense ;
@@ -27,8 +28,7 @@ CONSTRUCT {
     ex:ethymology ?ethymologyTagged ;
     .
 
-  ?posUri a lexinfo:partOfSpeech;
-    rdfs:label ?posType;
+  ?posUri ?posType;
     rdfs:label ?posTagged;
     .
 }
